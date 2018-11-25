@@ -1,10 +1,7 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
-
-.bodyclass {
-  background-color: khaki !important;
+  background-color: aliceblue;
 }
 
 a {
@@ -25,6 +22,7 @@ p {
   text-decoration: antiquewhite;
 }
 
-.container{
-  vertical-align: -webkit-baseline-middle;
+.car_image{
+  position: fixed;
+  size: inherit;
 }
