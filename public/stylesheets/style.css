@@ -1,18 +1,28 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-image: url("/public/images/car-repair-service-1.jpg");
+  background-color: aliceblue;
 }
 
 a {
   color: #00B7FF;
+  font-family: 'Cinzel',serif;
+  font-size: 14px;
 }
 
-h1 {
+.heading {
   text-align: center;
+  font-family: 'Cinzel', serif;
+  font-size: 64px;
+  padding: inherit;
 }
 
 p {
   text-align: center;
   text-decoration: antiquewhite;
+}
+
+.car_image{
+  position: fixed;
+  size: inherit;
 }
