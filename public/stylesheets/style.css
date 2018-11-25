@@ -1,13 +1,18 @@
 body {
-  background: url('/public/images/car_bg.jpg');
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: #00B7FF !important;
+}
+
+.bodyclass {
+  background-color: khaki !important;
 }
 
 a {
   color: #00B7FF;
+  font-family: 'Cinzel',serif;
+  font-size: 14px;
 }
+
 .heading {
   text-align: center;
   font-family: 'Cinzel', serif;

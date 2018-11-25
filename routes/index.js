@@ -13,4 +13,11 @@ router.get('/book', function(req,res,next){
     title: 'Book'
   });
 });
+
+router.get('/status', function(req,res,next){
+  res.render('status',{
+    title: 'Status'
+  });
+});
+
 module.exports = router;
