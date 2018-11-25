@@ -24,3 +24,7 @@ p {
   text-align: center;
   text-decoration: antiquewhite;
 }
+
+.container{
+  vertical-align: -webkit-baseline-middle;
+}
